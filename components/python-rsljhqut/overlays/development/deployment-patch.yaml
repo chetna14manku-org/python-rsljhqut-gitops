@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/python-rsljhqut:0d9417ba66a4a3f4e57edf4612ce5397b7662870@sha256:42b9cb1d4eeb923cdd992c58fea8f3226a7bbd8832aa3cb51f1da7999b799075
+        - image: quay.io/chetna14manku_org/python-rsljhqut:0f87eef5991776223b0a36de494249103889c82b@sha256:aee94029baaeaf40ec181fe4ccf18ebf222f70d16a782cb83fcc0be4a0217f9b
           name: container-image
